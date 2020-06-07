@@ -1,0 +1,15 @@
+.navegator{
+    background-color: rgb(14, 14, 29);
+    top: 0;
+    width: 80%;
+    position: fixed;
+}
+
+.navegator #p{
+    font-size: 32px;
+    padding-left: 5%;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+}

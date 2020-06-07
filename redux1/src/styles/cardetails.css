@@ -1,0 +1,9 @@
+.cardetails{
+    width: 70%;
+    position: fixed;
+}
+.cardetails img{
+ margin:10%;
+ width: 500px;
+
+}
